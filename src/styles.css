@@ -3,10 +3,7 @@ body {
   font-size: 18px;
 }
 .header {
-  height: 50px;
 
-
-.header {
   height: 49px;
   display: flex;
   justify-content: center;
